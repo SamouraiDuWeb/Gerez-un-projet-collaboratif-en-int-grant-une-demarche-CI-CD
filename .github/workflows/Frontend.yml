@@ -1,4 +1,4 @@
-name: Frontend tests
+name: Frontend Actions
 
 on: 
   push: 
